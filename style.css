@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #212A3E;
+}
+h2{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container{
+    display: flex;
+    gap: 8px;
+    margin: 50px;
+    text-align: justify;
+}
+h2{
+    color: #5ccc52;
+}
+  
+
+li{
+    font-family: 'Open Sans', sans-serif;
+    text-decoration: none;
+    list-style: none;
+    margin: 8px;
+    color: white;
+
+}
+
+a{
+    color: orange;
+    margin: 8px;
+}
+
